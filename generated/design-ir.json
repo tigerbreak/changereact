@@ -1,0 +1,1715 @@
+{
+  "metadata": {
+    "source_file": "Styles.svg",
+    "canvas_width": 1533.0,
+    "canvas_height": 5813.0,
+    "breakpoints": {
+      "mobile": 320,
+      "tablet": 768,
+      "desktop": 1024
+    }
+  },
+  "tokens": {
+    "colors": [
+      {
+        "name": "text-secondary",
+        "value": "#575757",
+        "usage_count": 14,
+        "semantic_name": null
+      },
+      {
+        "name": "primary-blue",
+        "value": "#1F41FF",
+        "usage_count": 6,
+        "semantic_name": null
+      },
+      {
+        "name": "accent-purple",
+        "value": "#9747FF",
+        "usage_count": 6,
+        "semantic_name": null
+      },
+      {
+        "name": "bg-cyan",
+        "value": "#D0FBF9",
+        "usage_count": 4,
+        "semantic_name": null
+      },
+      {
+        "name": "accent-magenta",
+        "value": "#D900FF",
+        "usage_count": 4,
+        "semantic_name": null
+      },
+      {
+        "name": "light-gray",
+        "value": "#E9E9E9",
+        "usage_count": 3,
+        "semantic_name": null
+      },
+      {
+        "name": "primary-deep-blue",
+        "value": "#2200FF",
+        "usage_count": 2,
+        "semantic_name": null
+      },
+      {
+        "name": "background-gray",
+        "value": "#F5F5F5",
+        "usage_count": 1,
+        "semantic_name": null
+      },
+      {
+        "name": "border-gray",
+        "value": "#C5C5C5",
+        "usage_count": 1,
+        "semantic_name": null
+      }
+    ],
+    "typography": [
+      {
+        "name": "text-12_0",
+        "font_family": "Roboto Flex",
+        "font_size": 12.0,
+        "font_weight": "500",
+        "line_height": null,
+        "letter_spacing": "-0.03em",
+        "text_transform": null
+      },
+      {
+        "name": "h1",
+        "font_family": "Encode Sans Condensed",
+        "font_size": 126.0,
+        "font_weight": "600",
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "h1-mono",
+        "font_family": "Encode Sans Expanded",
+        "font_size": 126.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "h2",
+        "font_family": "Encode Sans Expanded",
+        "font_size": 40.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.06em",
+        "text_transform": null
+      },
+      {
+        "name": "h3",
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": 37.0,
+        "font_weight": "600",
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "h4",
+        "font_family": "DM Sans",
+        "font_size": 24.0,
+        "font_weight": "bold",
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "h5",
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": 20.0,
+        "font_weight": "600",
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "body-1",
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": 32.0,
+        "font_weight": "600",
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "body-2",
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": 30.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "body-3",
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": 17.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "body-4",
+        "font_family": "Encode Sans Expanded",
+        "font_size": 16.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "body-5",
+        "font_family": "Encode Sans Expanded",
+        "font_size": 12.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "link",
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": 18.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "text-15_0",
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": 15.0,
+        "font_weight": "600",
+        "line_height": null,
+        "letter_spacing": "-0.02em",
+        "text_transform": null
+      },
+      {
+        "name": "button-text",
+        "font_family": "Encode Sans Expanded",
+        "font_size": 13.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.06em",
+        "text_transform": null
+      },
+      {
+        "name": "link",
+        "font_family": "Roboto Mono",
+        "font_size": 12.0,
+        "font_weight": null,
+        "line_height": null,
+        "letter_spacing": "-0.03em",
+        "text_transform": null
+      }
+    ],
+    "spacing": [
+      {
+        "name": "xs",
+        "value": 95
+      },
+      {
+        "name": "sm",
+        "value": 152
+      },
+      {
+        "name": "md",
+        "value": 68
+      },
+      {
+        "name": "lg",
+        "value": 5
+      },
+      {
+        "name": "xl",
+        "value": 137
+      },
+      {
+        "name": "xxl",
+        "value": 210
+      },
+      {
+        "name": "xxxl",
+        "value": 163
+      },
+      {
+        "name": "huge",
+        "value": 114
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Styles",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Styles'"
+    },
+    {
+      "name": "Frame_2147238598",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147238598'"
+    },
+    {
+      "name": "Label",
+      "element_type": "text",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Label'"
+    },
+    {
+      "name": "Text",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Text'"
+    },
+    {
+      "name": "Text_2",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Text_2'"
+    },
+    {
+      "name": "Text_3",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Text_3'"
+    },
+    {
+      "name": "Text_4",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Text_4'"
+    },
+    {
+      "name": "Text_5",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Text_5'"
+    },
+    {
+      "name": "Frame_2147238597",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147238597'"
+    },
+    {
+      "name": "Label_2",
+      "element_type": "text",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Label_2'"
+    },
+    {
+      "name": "Color_2",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Color_2'"
+    },
+    {
+      "name": "Frame_2147236305",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236305'"
+    },
+    {
+      "name": "Color_3",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Color_3'"
+    },
+    {
+      "name": "Frame_2147236305_2",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236305_2'"
+    },
+    {
+      "name": "Color_4",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Color_4'"
+    },
+    {
+      "name": "Color_5",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Color_5'"
+    },
+    {
+      "name": "Frame_2147238599",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147238599'"
+    },
+    {
+      "name": "Label_3",
+      "element_type": "text",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Label_3'"
+    },
+    {
+      "name": "Button_Dark",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Button Dark'"
+    },
+    {
+      "name": "Property_1_Default",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Default'"
+    },
+    {
+      "name": "Property_1_Hover",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Hover'"
+    },
+    {
+      "name": "Nav_buttons",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav buttons'"
+    },
+    {
+      "name": "Property_1_Default_2",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Default_2'"
+    },
+    {
+      "name": "Property_1_Variant2",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Variant2'"
+    },
+    {
+      "name": "Button_Light",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Button Light'"
+    },
+    {
+      "name": "Property_1_Default_3",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Default_3'"
+    },
+    {
+      "name": "Property_1_Hover_2",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Hover_2'"
+    },
+    {
+      "name": "Book_button",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Book button'"
+    },
+    {
+      "name": "Property_1_Default_4",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Default_4'"
+    },
+    {
+      "name": "Property_1_Hover_3",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=Hover_3'"
+    },
+    {
+      "name": "Nav_bar_",
+      "element_type": "nav",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav bar '"
+    },
+    {
+      "name": "Breakpoint_desktop",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Breakpoint=desktop'"
+    },
+    {
+      "name": "Nav_bar_content",
+      "element_type": "nav",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav bar content'"
+    },
+    {
+      "name": "Nav_buttons_2",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav buttons_2'"
+    },
+    {
+      "name": "Nav_buttons_3",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav buttons_3'"
+    },
+    {
+      "name": "Address",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Address'"
+    },
+    {
+      "name": "Logo",
+      "element_type": "icon",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Logo'"
+    },
+    {
+      "name": "Breakpoint_Tablet",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Breakpoint=Tablet'"
+    },
+    {
+      "name": "Nav_bar_content_2",
+      "element_type": "nav",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav bar content_2'"
+    },
+    {
+      "name": "Nav_buttons_4",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav buttons_4'"
+    },
+    {
+      "name": "Nav_buttons_5",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav buttons_5'"
+    },
+    {
+      "name": "Address_2",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Address_2'"
+    },
+    {
+      "name": "Logo_2",
+      "element_type": "icon",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Logo_2'"
+    },
+    {
+      "name": "Nav_bar_Mobile",
+      "element_type": "nav",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav bar Mobile'"
+    },
+    {
+      "name": "Property_1_mobile",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=mobile'"
+    },
+    {
+      "name": "Nav_bar_content_3",
+      "element_type": "nav",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav bar content_3'"
+    },
+    {
+      "name": "Nav_buttons_6",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav buttons_6'"
+    },
+    {
+      "name": "Hamburger",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Hamburger'"
+    },
+    {
+      "name": "Logo_3",
+      "element_type": "icon",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Logo_3'"
+    },
+    {
+      "name": "Property_1_mobile_expanded",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Property 1=mobile expanded'"
+    },
+    {
+      "name": "Nav_bar_content_4",
+      "element_type": "nav",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav bar content_4'"
+    },
+    {
+      "name": "Nav_buttons_7",
+      "element_type": "button",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav buttons_7'"
+    },
+    {
+      "name": "Hamburger_2",
+      "element_type": "unknown",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Hamburger_2'"
+    },
+    {
+      "name": "Logo_4",
+      "element_type": "icon",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Logo_4'"
+    },
+    {
+      "name": "Nav_expand",
+      "element_type": "nav",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Nav expand'"
+    },
+    {
+      "name": "Frame_2147238774",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147238774'"
+    },
+    {
+      "name": "Frame_2147238775",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147238775'"
+    },
+    {
+      "name": "Frame_2147238776",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147238776'"
+    },
+    {
+      "name": "Frame_2147237734",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237734'"
+    },
+    {
+      "name": "Frame_2147237735",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237735'"
+    },
+    {
+      "name": "Frame_2147237733",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237733'"
+    },
+    {
+      "name": "Frame_2147237730",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237730'"
+    },
+    {
+      "name": "Frame_2147236292",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236292'"
+    },
+    {
+      "name": "Frame_2147237731",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237731'"
+    },
+    {
+      "name": "Frame_2147236293",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236293'"
+    },
+    {
+      "name": "Frame_2147237732",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237732'"
+    },
+    {
+      "name": "Frame_2147236306",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306'"
+    },
+    {
+      "name": "Frame_2147237733_2",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237733_2'"
+    },
+    {
+      "name": "Frame_2147236306_2",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306_2'"
+    },
+    {
+      "name": "Frame_2147237721",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237721'"
+    },
+    {
+      "name": "Frame_2147236292_2",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236292_2'"
+    },
+    {
+      "name": "Frame_2147237722",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237722'"
+    },
+    {
+      "name": "Frame_2147236293_2",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236293_2'"
+    },
+    {
+      "name": "Frame_2147237723",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237723'"
+    },
+    {
+      "name": "Frame_2147236306_3",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306_3'"
+    },
+    {
+      "name": "Frame_2147237724",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237724'"
+    },
+    {
+      "name": "Frame_2147236306_4",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306_4'"
+    },
+    {
+      "name": "Frame_2147237725",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237725'"
+    },
+    {
+      "name": "Frame_2147236306_5",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306_5'"
+    },
+    {
+      "name": "Frame_2147237734_2",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237734_2'"
+    },
+    {
+      "name": "Frame_2147236306_6",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306_6'"
+    },
+    {
+      "name": "Frame_2147237735_2",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237735_2'"
+    },
+    {
+      "name": "Frame_2147236306_7",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306_7'"
+    },
+    {
+      "name": "Frame_2147237736",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147237736'"
+    },
+    {
+      "name": "Frame_2147236306_8",
+      "element_type": "container",
+      "props_schema": {},
+      "variants": [],
+      "description": "Component extracted from SVG group 'Frame 2147236306_8'"
+    }
+  ],
+  "root_elements": [
+    {
+      "id": "Text Styles",
+      "name": "Text",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "136.602px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Flex",
+        "font_size": "12.0px",
+        "font_weight": "500",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      },
+      "text_content": "Text Styles"
+    },
+    {
+      "id": "Header 1",
+      "name": "Header",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "346.53px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Condensed",
+        "font_size": "126.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Header 1"
+    },
+    {
+      "id": "Header 1 Mono",
+      "name": "Header",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "509.53px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "126.0px",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Header 1 Mono"
+    },
+    {
+      "id": "Header 2",
+      "name": "Header",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "623.2px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "40.0px",
+        "letter_spacing": "-0.06em",
+        "color": "black"
+      },
+      "text_content": "Header 2"
+    },
+    {
+      "id": "Header 3",
+      "name": "Header",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "734.485px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "37.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Header 3"
+    },
+    {
+      "id": "Header 4",
+      "name": "Header",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "834.184px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "DM Sans",
+        "font_size": "24.0px",
+        "font_weight": "bold",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Header 4"
+    },
+    {
+      "id": "Header 5",
+      "name": "Header",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "929.1px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "20.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Header 5"
+    },
+    {
+      "id": "Paragraph 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Paragraph",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1034.46px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "32.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Paragraph 1 Lorem ipsum dolor sit amet,  consectetur adipiscing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna  aliqua."
+    },
+    {
+      "id": "Paragraph 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Paragraph",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1246.65px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "30.0px",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Paragraph 2 Lorem ipsum dolor sit amet,  consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "Paragraph 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Paragraph",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1407.89px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "17.0px",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Paragraph 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "Paragraph 4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Paragraph",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1520.48px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "16.0px",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Paragraph 4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "Paragraph 5 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Paragraph",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1627.86px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Paragraph 5 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt  ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "Link",
+      "name": "Link",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1738.29px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Link"
+    },
+    {
+      "id": "Promotion",
+      "name": "Promotion",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1829.57px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "15.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Promotion"
+    },
+    {
+      "id": "Button",
+      "name": "Button",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "1917.27px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "13.0px",
+        "letter_spacing": "-0.06em",
+        "color": "black"
+      },
+      "text_content": "Button"
+    },
+    {
+      "id": "Color",
+      "name": "Color",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "2055.69px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Flex",
+        "font_size": "12.0px",
+        "font_weight": "500",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      },
+      "text_content": "Color"
+    },
+    {
+      "id": "Components",
+      "name": "Components",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "2932.69px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Flex",
+        "font_size": "12.0px",
+        "font_weight": "500",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      },
+      "text_content": "Components"
+    },
+    {
+      "id": "Button_2",
+      "name": "Button_2",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3084.36px",
+        "left": "146.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "13.0px",
+        "letter_spacing": "-0.06em",
+        "color": "white"
+      },
+      "text_content": "About Us"
+    },
+    {
+      "id": "Button_3",
+      "name": "Button_3",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3152.36px",
+        "left": "146.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "13.0px",
+        "letter_spacing": "-0.06em",
+        "color": "white"
+      },
+      "text_content": "About Us"
+    },
+    {
+      "id": "Link_2",
+      "name": "Link_2",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3327.38px",
+        "left": "150.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Classes"
+    },
+    {
+      "id": "Link_3",
+      "name": "Link_3",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3414.29px",
+        "left": "150.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Classes"
+    },
+    {
+      "id": "Button_4",
+      "name": "Button_4",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3587.36px",
+        "left": "146.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "13.0px",
+        "letter_spacing": "-0.06em",
+        "color": "black"
+      },
+      "text_content": "About Us"
+    },
+    {
+      "id": "Button_5",
+      "name": "Button_5",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3655.36px",
+        "left": "146.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "13.0px",
+        "letter_spacing": "-0.06em",
+        "color": "white"
+      },
+      "text_content": "About Us"
+    },
+    {
+      "id": "Book Now",
+      "name": "Book",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3813.95px",
+        "left": "140.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Book Now"
+    },
+    {
+      "id": "Book Now_2",
+      "name": "Book",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "3876.95px",
+        "left": "140.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Expanded",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Book Now"
+    },
+    {
+      "id": "Link_4",
+      "name": "Link_4",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4085.38px",
+        "left": "163.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Classes"
+    },
+    {
+      "id": "Link_5",
+      "name": "Link_5",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4085.38px",
+        "left": "275.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "About"
+    },
+    {
+      "id": "224 Nostrand Ave, Brooklyn, NY",
+      "name": "224",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4085.38px",
+        "left": "380.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "224 Nostrand Ave, Brooklyn, NY"
+    },
+    {
+      "id": "Movement Studios.",
+      "name": "Movement",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4090.24px",
+        "left": "1154.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "30.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Movement Studios."
+    },
+    {
+      "id": "Link_6",
+      "name": "Link_6",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4242.29px",
+        "left": "163.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Classes"
+    },
+    {
+      "id": "Link_7",
+      "name": "Link_7",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4242.29px",
+        "left": "275.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "About"
+    },
+    {
+      "id": "224 Nostrand Ave, Brooklyn, NY_2",
+      "name": "224",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "18.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      }
+    },
+    {
+      "id": "Movement Studios._2",
+      "name": "Movement",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4247.15px",
+        "left": "731.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "30.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Movement Studios."
+    },
+    {
+      "id": "Movement Studios._3",
+      "name": "Movement",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4505.24px",
+        "left": "232.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "30.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Movement Studios."
+    },
+    {
+      "id": "Movement Studios._4",
+      "name": "Movement",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4505.15px",
+        "left": "629.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "30.0px",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      },
+      "text_content": "Movement Studios."
+    },
+    {
+      "id": "Classes",
+      "name": "Classes",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4578.46px",
+        "left": "543.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "32.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "Classes"
+    },
+    {
+      "id": "About us",
+      "name": "About",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "4673.46px",
+        "left": "543.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "32.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "black"
+      },
+      "text_content": "About us"
+    },
+    {
+      "id": "Book with us",
+      "name": "Book",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Encode Sans Semi Condensed",
+        "font_size": "32.0px",
+        "font_weight": "600",
+        "letter_spacing": "-0.02em",
+        "color": "white"
+      }
+    },
+    {
+      "id": "Photo Links",
+      "name": "Photo",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "5038.69px",
+        "left": "100.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Flex",
+        "font_size": "12.0px",
+        "font_weight": "500",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      },
+      "text_content": "Photo Links"
+    },
+    {
+      "id": "Link_8",
+      "name": "Link_8",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_9",
+      "name": "Link_9",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_10",
+      "name": "Link_10",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_11",
+      "name": "Link_11",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_12",
+      "name": "Link_12",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_13",
+      "name": "Link_13",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_14",
+      "name": "Link_14",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_15",
+      "name": "Link_15",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_16",
+      "name": "Link_16",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_17",
+      "name": "Link_17",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_18",
+      "name": "Link_18",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    },
+    {
+      "id": "Link_19",
+      "name": "Link_19",
+      "element_type": "text",
+      "box": {
+        "position": "absolute",
+        "top": "0.0px",
+        "left": "0.0px"
+      },
+      "text_style": {
+        "font_family": "Roboto Mono",
+        "font_size": "12.0px",
+        "letter_spacing": "-0.03em",
+        "color": "black"
+      }
+    }
+  ]
+}
